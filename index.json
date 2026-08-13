@@ -1,0 +1,40 @@
+{
+  "sites": [
+    {
+      "key": "hanman",
+      "name": "韩漫基地",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/-/main/韩漫基地.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yssm",
+      "name": "有声骚麦",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/-/main/yssm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "avbebe",
+      "name": "AVbebe",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/-/main/AVbebe.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jinghe",
+      "name": "泾河浪曲",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/-/main/泾河浪曲.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
